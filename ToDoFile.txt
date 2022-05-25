@@ -1,0 +1,3 @@
+Mowing,High
+Homework,High
+Laundry,Medium
